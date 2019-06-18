@@ -55,3 +55,5 @@ Install the pip package for Python3.
 ----------------
 
 Install the mako package for Python3.
+
+Installed python36
